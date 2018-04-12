@@ -34,7 +34,7 @@ $ npm start
 
 ## 3. Open [http://localhost:2424](http://localhost:2424)
 
-[//]: <> (Metadata)
+[//]: # (Metadata)
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
