@@ -45,7 +45,7 @@
     "imports-loader": "^0.6.5",
     "jquery": "^3.1.0",
     "json-loader": "^0.5.4",
-    "less": "^2.7.1",
+    "less": "^3.9.0",
     "less-loader": "^2.2.3",
     "lodash.find": "^4.6.0",
     "lodash.first": "^3.0.0",
@@ -61,9 +61,9 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^2.5.0",
     "timediff": "^1.1.1",
-    "url-loader": "^0.5.7",
+    "url-loader": "^1.1.2",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^3.1.14"
   },
   "engines": {
     "node": ">=6.0.0"
